@@ -1,4 +1,3 @@
-package Math;
 public class Recipt {
 
     public static void main(String[] args){

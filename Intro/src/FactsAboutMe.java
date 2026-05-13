@@ -1,4 +1,3 @@
-package Words;
 public class FactsAboutMe {
     public static void main(String[] args) {
         System.out.println("My favorite ice cream flavor is cookies & cream.");

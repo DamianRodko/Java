@@ -1,4 +1,3 @@
-package Words;
 import javax.swing.*;
 import java.awt.TextField;
 import java.awt.event.*;

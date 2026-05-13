@@ -1,4 +1,3 @@
-package Math;
 public class DogYearsConvert
 {
     public static void main(String[] args)

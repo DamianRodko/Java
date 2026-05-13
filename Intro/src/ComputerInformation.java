@@ -1,4 +1,3 @@
-package Words;
 public class ComputerInformation 
 {
     public static void main(String []args)

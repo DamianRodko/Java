@@ -1,4 +1,3 @@
-package Words;
 public class SchoolInformation 
 {
     public static void main(String []args)

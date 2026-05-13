@@ -1,6 +1,5 @@
-package Words;
-import java.util.Scanner;
 import java.util.Date;
+import java.util.Scanner;
 public class TodaysDate
 {
 	public static void main(String []args)

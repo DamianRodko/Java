@@ -1,4 +1,3 @@
-package Math;
 public class DoubleToInt
 {
     public static void main(String []args)

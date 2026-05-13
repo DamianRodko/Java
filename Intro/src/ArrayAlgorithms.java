@@ -1,4 +1,3 @@
-package Math;
 public class ArrayAlgorithms
 {
     public static void printExclamation(String[] wordList)

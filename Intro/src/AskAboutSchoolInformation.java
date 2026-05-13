@@ -1,4 +1,3 @@
-package Words;
 import java.util.Scanner;
 public class AskAboutSchoolInformation
 {
