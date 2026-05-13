@@ -2,23 +2,23 @@ public class RodkoProj5
 {
     public static void main(String []args)
     {
-        String[] str = {"AP", "COMP", "SCI", "ROCKS"};;
+        String[] str = {"AP", "COMP", "SCI", "ROCKS"};
 //        String[] str = {"GREEN", "EGGS", "AND", "HAM"};
 //        String[] str = {"BEACH", "BALL"};
 //        System.out.println(comesBefore(str, "xenomorph"));
         int[] ints = {12, 10, -13, 4, 20, 15};
 //        LearningArrays.printArr(noAdj(ints));
-//        System.out.println(maxAdjDist(ints));
-//        System.out.println(countStringsWithE(str));
+       System.out.println(maxAdjDist(ints));
+       System.out.println(countStringsWithE(str));
 //        LearningArrays.printArr(noMoreEvilEsPLEASE(str));
         double[] nums = {5.0, 2.2, 3.8, 9.1};
 //        LearningArrays.printArr(randomlyRemoveElement(nums));
 //        LearningArrays.printArr(randomlyRemoveNElements(nums, 2));
-//        System.out.println(totalLetters(str));
-//        System.out.println(basicGapWidth(str, 20));
-//        System.out.println(leftoverSpaces(str, 20));
-//        System.out.println(format(str, 20));
-//        System.out.println(format(str,20).length());
+       System.out.println(totalLetters(str));
+       System.out.println(basicGapWidth(str, 20));
+       System.out.println(leftoverSpaces(str, 20));
+       System.out.println(format(str, 20));
+       System.out.println(format(str,20).length());
     }
     public static boolean comesBefore(String[] words, String str)
     {

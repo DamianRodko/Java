@@ -1,6 +1,12 @@
-import javax.swing.*;  
+import javax.swing.*;
 public class RodkoProj3
 {
+    static class Point {
+        double x, y;
+        Point(double x, double y) { this.x = x; this.y = y; }
+        double getX() { return x; }
+        double getY() { return y; }
+    }
     public static void main(String []args)
     {
         Point a = getPointFromUser("Enter the first point in the format (x, y): ");

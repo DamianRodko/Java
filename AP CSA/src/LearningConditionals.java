@@ -1,5 +1,4 @@
 import javax.swing.JOptionPane;
-import java.util.Scanner;
 public class LearningConditionals
 {
     public static void main(String []args)
