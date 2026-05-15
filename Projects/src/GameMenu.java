@@ -1,4 +1,3 @@
-package Games;
 import java.awt.TextField;
 import java.awt.event.*;
 import javax.swing.*;

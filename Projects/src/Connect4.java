@@ -1,6 +1,5 @@
-package games;
-import java.util.concurrent.TimeUnit;
 import java.util.Scanner;
+import java.util.concurrent.TimeUnit;
 public class Connect4
 {
     public static String R = "\u001B[41m ";
